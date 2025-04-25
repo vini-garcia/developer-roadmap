@@ -31,7 +31,7 @@
     "description": "There are several types of network connections that enable communication between devices, each serving different functions based on speed, reliability, and purpose. **Ethernet** is a wired connection type commonly used in local area networks (LANs), providing high-speed, stable, and secure data transfer. Ethernet is ideal for businesses and environments where reliability is crucial, offering speeds from 100 Mbps to several Gbps.\n\n**Wi-Fi**, a wireless connection, enables devices to connect to a network without physical cables. It provides flexibility and mobility, making it popular in homes, offices, and public spaces. While Wi-Fi offers convenience, it can be less reliable and slower than Ethernet due to signal interference or distance from the access point.\n\n**Bluetooth** is a short-range wireless technology primarily used for connecting peripherals like headphones, keyboards, and other devices. It operates over shorter distances, typically up to 10 meters, and is useful for personal device communication rather than networking larger systems.\n\n**Fiber-optic connections** use light signals through glass or plastic fibers to transmit data at very high speeds over long distances, making them ideal for internet backbones or connecting data centers. Fiber is faster and more reliable than traditional copper cables, but it is also more expensive to implement.\n\n**Cellular connections**, such as 4G and 5G, allow mobile devices to connect to the internet via wireless cellular networks. These connections offer mobility, enabling internet access from almost anywhere, but their speeds and reliability can vary depending on network coverage.\n\nEach connection type plays a specific role, balancing factors like speed, distance, and convenience to meet the varying needs of users and organizations.\n\nLearn more from the following resources:",
     "links": [
       {
-        "title": "What is ethernet?",
+        "title": "What is Ethernet?",
         "url": "https://www.techtarget.com/searchnetworking/definition/Ethernet",
         "type": "article"
       },
@@ -302,14 +302,14 @@
     "description": "CompTIA A+ is an entry-level certification for IT professionals that focuses on essential knowledge and skills in computer hardware, software, and troubleshooting. This certification is widely recognized in the IT industry and can serve as a stepping stone for individuals looking to start a career in the field of information technology.\n\nLearn more from the following resources:",
     "links": [
       {
-        "title": "Comptia A+ Course",
-        "url": "https://www.youtube.com/watch?v=1CZXXNKAY5o",
-        "type": "course"
-      },
-      {
-        "title": "Comptia A+ Website",
+        "title": "CompTIA A+",
         "url": "https://www.comptia.org/certifications/a",
         "type": "article"
+      },
+      {
+        "title": "CompTIA A+ Course",
+        "url": "https://www.youtube.com/watch?v=1CZXXNKAY5o",
+        "type": "video"
       }
     ]
   },
@@ -318,7 +318,7 @@
     "description": "The CompTIA Linux+ certification is an entry-level certification aimed at individuals who are seeking to learn and demonstrate their skills and knowledge of the Linux operating system. This certification is widely recognized in the IT industry as an essential qualification for entry-level Linux administrators and helps them gain a strong foundation in Linux system administration tasks.\n\nLearn more from the following resources:",
     "links": [
       {
-        "title": "Linux+ Website",
+        "title": "CompTIA Linux+",
         "url": "https://www.comptia.org/certifications/linux",
         "type": "article"
       },
@@ -331,17 +331,17 @@
   },
   "4RGbNOfMPDbBcvUFWTTCV": {
     "title": "CompTIA Network+",
-    "description": "The CompTIA Network+ is a highly sought-after certification for IT professionals who aim to build a solid foundation in networking concepts and practices. This certification is vendor-neutral, meaning that it covers a broad range of knowledge that can be applied to various network technologies, products, and solutions. The Network+ certification is designed for beginners in the world of IT networking, and it is recommended that you first obtain the [CompTIA A+ certification](#) before moving on to Network+.\n\nLearn more from the following resources:",
+    "description": "The CompTIA Network+ is a highly sought-after certification for IT professionals who aim to build a solid foundation in networking concepts and practices. This certification is vendor-neutral, meaning that it covers a broad range of knowledge that can be applied to various network technologies, products, and solutions. The Network+ certification is designed for beginners in the world of IT networking, and it is recommended that you first obtain the CompTIA A+ certification before moving on to Network+.\n\nLearn more from the following resources:",
     "links": [
+      {
+        "title": "CompTIA Network+",
+        "url": "https://www.comptia.org/certifications/network",
+        "type": "article"
+      },
       {
         "title": "CompTIA Network+ Course",
         "url": "https://www.youtube.com/watch?v=xmpYfyNmWbw",
-        "type": "course"
-      },
-      {
-        "title": "CompTIA Network+ Website",
-        "url": "https://www.comptia.org/certifications/network",
-        "type": "article"
+        "type": "video"
       }
     ]
   },
@@ -350,14 +350,14 @@
     "description": "The Cisco Certified Network Associate (CCNA) certification is an entry-level certification for IT professionals who want to specialize in networking, specifically within the realm of Cisco products. This certification validates an individual's ability to install, configure, operate, and troubleshoot medium-sized routed and switched networks. It also covers the essentials of network security and management.\n\nLearn more from the following resources:",
     "links": [
       {
-        "title": "@Network Chuck Free CCNA Course",
-        "url": "https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P",
+        "title": "CCNA Certification",
+        "url": "https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html",
         "type": "article"
       },
       {
-        "title": "CCNA Certification Website",
-        "url": "https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html",
-        "type": "article"
+        "title": "Network Chuck Free CCNA Course",
+        "url": "https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P",
+        "type": "video"
       }
     ]
   },
@@ -382,8 +382,13 @@
     "description": "**Certified Ethical Hacker (CEH)** is an advanced certification focused on equipping cybersecurity professionals with the knowledge and skills required to defend against the continuously evolving landscape of cyber threats. This certification is facilitated by the EC-Council, an internationally recognized organization for information security certifications.\n\nLearn more from the following resources:",
     "links": [
       {
-        "title": "CEH Website",
+        "title": "CEH",
         "url": "https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/",
+        "type": "article"
+      },
+      {
+        "title": "Certified Ethical Hacker Online Training",
+        "url": "https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/",
         "type": "article"
       }
     ]
@@ -393,7 +398,7 @@
     "description": "The **Certified Information Systems Auditor (CISA)** is a globally recognized certification for professionals who audit, control, monitor, and assess an organization's information technology and business systems.\n\nCISA was established by the Information Systems Audit and Control Association (ISACA) and is designed to demonstrate an individual's expertise in managing vulnerabilities, ensuring compliance with industry regulations, and instituting controls within the business environment.\n\nLearn more from the following resources:",
     "links": [
       {
-        "title": "CISA Website",
+        "title": "CISA",
         "url": "https://www.isaca.org/credentialing/cisa",
         "type": "article"
       },
@@ -409,7 +414,7 @@
     "description": "The Certified Information Security Manager (CISM) is an advanced cybersecurity certification offered by ISACA that focuses on information security management. It is designed for professionals who have a strong understanding of information security and are responsible for overseeing, designing, and managing an organization's information security programs.\n\nLearn more from the following resources:",
     "links": [
       {
-        "title": "CISM Website",
+        "title": "CISM",
         "url": "https://www.isaca.org/credentialing/cism",
         "type": "article"
       },
@@ -487,10 +492,10 @@
   },
   "rA1skdztev3-8VmAtIlmr": {
     "title": "CREST",
-    "description": "CREST is a non-profit, accreditation and certification body that represents the technical information security industry. Established in 2008, its mission is to promote the development and professionalization of the cyber security sector. CREST provides certifications for individuals and accreditations for companies, helping customers find knowledgeable and experienced professionals in the field.\n\nLearn more from the following resources:",
+    "description": "CREST is a non-profit, accreditation and certification body that represents the technical information security industry. Established in 2008, its mission is to promote the development and professionalization of the cyber security sector. CREST provides certifications for individuals and accreditation for companies, helping customers find knowledgeable and experienced professionals in the field.\n\nLearn more from the following resources:",
     "links": [
       {
-        "title": "CREST Certifications Website",
+        "title": "CREST Certifications",
         "url": "https://www.crest-approved.org/skills-certifications-careers/crest-certifications/",
         "type": "article"
       },
@@ -506,14 +511,14 @@
     "description": "The Certified Information Systems Security Professional (CISSP) is a globally recognized certification offered by the International Information System Security Certification Consortium (ISC)². It is designed for experienced security professionals to validate their knowledge and expertise in the field of information security.\n\nLearn more from the following resources:",
     "links": [
       {
-        "title": "CISSP Certification course",
-        "url": "https://www.youtube.com/watch?v=M1_v5HBVHWo",
-        "type": "course"
-      },
-      {
-        "title": "CISSP Certification Website",
+        "title": "CISSP Certification",
         "url": "https://www.isc2.org/certifications/cissp",
         "type": "article"
+      },
+      {
+        "title": "CISSP Certification Course",
+        "url": "https://www.youtube.com/watch?v=M1_v5HBVHWo",
+        "type": "video"
       }
     ]
   },
@@ -684,6 +689,11 @@
     "description": "Common operating system (OS) commands are essential for interacting with a system's shell or command-line interface (CLI). These commands allow users to perform a wide range of tasks, such as navigating the file system, managing files and directories, checking system status, and administering processes. Below are some commonly used commands across Unix/Linux and Windows operating systems:\n\n1.  **Navigating the File System:**\n    \n    *   Unix/Linux: `ls` (list files), `cd` (change directory), `pwd` (print working directory)\n    *   Windows: `dir` (list files), `cd` (change directory), `echo %cd%` (print working directory)\n2.  **File and Directory Management:**\n    \n    *   Unix/Linux: `cp` (copy files), `mv` (move/rename files), `rm` (remove files), `mkdir` (create directory)\n    *   Windows: `copy` (copy files), `move` (move/rename files), `del` (delete files), `mkdir` (create directory)\n3.  **System Information and Processes:**\n    \n    *   Unix/Linux: `top` or `htop` (view running processes), `ps` (list processes), `df` (disk usage), `uname` (system info)\n    *   Windows: `tasklist` (list processes), `taskkill` (kill process), `systeminfo` (system details)\n4.  **File Permissions and Ownership:**\n    \n    *   Unix/Linux: `chmod` (change file permissions), `chown` (change file ownership)\n    *   Windows: `icacls` (modify access control lists), `attrib` (change file attributes)\n5.  **Network Commands:**\n    \n    *   Unix/Linux: `ping` (test network connection), `ifconfig` or `ip` (network interface configuration), `netstat` (network statistics)\n    *   Windows: `ping` (test network connection), `ipconfig` (network configuration), `netstat` (network statistics)\n\nThese commands form the foundation of interacting with and managing an OS via the command line, providing greater control over system operations compared to graphical interfaces.\n\nLearn more from the following resources:",
     "links": [
       {
+        "title": "Essential Unix Commands",
+        "url": "https://www.geeksforgeeks.org/essential-linuxunix-commands/",
+        "type": "article"
+      },
+      {
         "title": "60 Linux commands you must know",
         "url": "https://www.youtube.com/watch?v=gd7BXuUQ91w",
         "type": "video"
@@ -727,7 +737,7 @@
     "description": "Networking protocols are essential for facilitating communication between devices and systems across networks. In cybersecurity, understanding these protocols is crucial for identifying potential vulnerabilities and securing data transmission. Common protocols include TCP/IP, the foundation of internet communication, which ensures reliable data delivery. HTTP and HTTPS are used for web browsing, with HTTPS providing encrypted connections. FTP and SFTP handle file transfers, while SMTP, POP3, and IMAP manage email services. DNS translates domain names to IP addresses, and DHCP automates IP address assignment. SSH enables secure remote access and management of systems. Other important protocols include TLS/SSL for encryption, SNMP for network management, and VPN protocols like IPsec and OpenVPN for secure remote connections. Cybersecurity professionals must be well-versed in these protocols to effectively monitor network traffic, implement security measures, and respond to potential threats targeting specific protocol vulnerabilities.\n\nLearn more from the following resources:",
     "links": [
       {
-        "title": "12 common network protocols",
+        "title": "12 Common Network Protocols",
         "url": "https://www.techtarget.com/searchnetworking/feature/12-common-network-protocols-and-their-functions-explained",
         "type": "article"
       },
@@ -748,7 +758,7 @@
         "type": "article"
       },
       {
-        "title": "Common network ports",
+        "title": "Common Network Ports",
         "url": "https://www.youtube.com/watch?v=dh8h-4u7Wak",
         "type": "video"
       }
@@ -1822,12 +1832,12 @@
     "description": "Certificates, also known as digital certificates or SSL/TLS certificates, play a crucial role in the world of cybersecurity. They help secure communications between clients and servers over the internet, ensuring that sensitive data remains confidential and protected from prying eyes.\n\nDigital certificates provide a crucial layer of security and trust for online communications. Understanding their role in cybersecurity, the different types of certificates, and the importance of acquiring certificates from trusted CAs can greatly enhance your organization's online security posture and reputation.\n\nLearn more from the following resources:",
     "links": [
       {
-        "title": "What is an SSL certificate?",
+        "title": "What is an SSL Certificate?",
         "url": "https://www.cloudflare.com/en-gb/learning/ssl/what-is-an-ssl-certificate/",
         "type": "article"
       },
       {
-        "title": "What is a certificate authority",
+        "title": "What is a Certificate Authority",
         "url": "https://www.ssl.com/article/what-is-a-certificate-authority-ca/",
         "type": "article"
       }
@@ -2023,12 +2033,12 @@
     "description": "The core concepts of Zero Trust revolve around the principle of \"never trust, always verify,\" emphasizing the need to continuously validate every user, device, and application attempting to access resources, regardless of their location within or outside the network perimeter. Unlike traditional security models that rely on a strong perimeter defense, Zero Trust assumes that threats could already exist inside the network and that no entity should be trusted by default. Key principles include strict identity verification, least privilege access, micro-segmentation, and continuous monitoring. This approach limits access to resources based on user roles, enforces granular security policies, and continuously monitors for abnormal behavior, ensuring that security is maintained even if one segment of the network is compromised. Zero Trust is designed to protect modern IT environments from evolving threats by focusing on securing data and resources, rather than just the network perimeter.\n\nLearn more from the following resources:",
     "links": [
       {
-        "title": "What is a zero trust network?",
+        "title": "What is a Zero Trust Network?",
         "url": "https://www.cloudflare.com/en-gb/learning/security/glossary/what-is-zero-trust/",
         "type": "article"
       },
       {
-        "title": "Zero trust explained in 4 minutes",
+        "title": "Zero Trust Explained in 4 minutes",
         "url": "https://www.youtube.com/watch?v=yn6CPQ9RioA",
         "type": "video"
       }
@@ -2084,7 +2094,7 @@
   },
   "H38Vb7xvuBJXVzgPBdRdT": {
     "title": "Cyber Kill Chain",
-    "description": "The **Cyber Kill Chain** is a model that was developed by Lockheed Martin, a major aerospace, military support, and security company, to understand and prevent cyber intrusions in various networks and systems. It serves as a framework for breaking down the stages of a cyber attack, making it easier for security professionals to identify, mitigate, and prevent threats.\n\nThe concept is based on a military model, where the term \"kill chain\" represents a series of steps needed to successfully target and engage an adversary. In the context of cybersecurity, the model breaks down the stages of a cyber attack into seven distinct phases:\n\n*   **Reconnaissance**: This initial phase involves gathering intelligence on the target, which may include researching public databases, performing network scans, or social engineering techniques.\n*   **Weaponization**: In this stage, the attacker creates a weapon – such as a malware, virus, or exploit – and packages it with a delivery mechanism that can infiltrate the target's system.\n*   **Delivery**: The attacker selects and deploys the delivery method to transmit the weapon to the target. Common methods include email attachments, malicious URLs, or infected software updates.\n*   **Exploitation**: This is the phase where the weapon is activated, taking advantage of vulnerabilities in the target's systems or applications to execute the attacker's code.\n*   **Installation**: Once the exploit is successful, the attacker installs the malware on the victim's system, setting the stage for further attacks or data exfiltration.\n*   **Command and Control (C2)**: The attacker establishes a communication channel with the infected system, allowing them to remotely control the malware and conduct further actions.\n*   **Actions on Objectives**: In this final phase, the attacker achieves their goal, which may involve stealing sensitive data, compromising systems, or disrupting services.\n\nLearn more from the following resources:",
+    "description": "The **Cyber Kill Chain** is a model that was developed by Lockheed Martin, a major aerospace, military support, and security company, to understand and prevent cyber intrusions in various networks and systems. It serves as a framework for breaking down the stages of a cyber attack, making it easier for security professionals to identify, mitigate, and prevent threats.\n\nLearn more from the following resources:",
     "links": [
       {
         "title": "Cyber Kill Chain",
@@ -2417,7 +2427,7 @@
   },
   "W7iQUCjODGYgE4PjC5TZI": {
     "title": "curl",
-    "description": "Curl is a versatile command-line tool primarily used for transferring data using various network protocols. It is widely used in cybersecurity and development for the purpose of testing and interacting with web services, APIs, and scrutinizing web application security. Curl supports various protocols such as HTTP, HTTPS, FTP, SCP, SFTP, and many more.\n\nLearn more from the following resources:",
+    "description": "cURL is a versatile command-line tool primarily used for transferring data using various network protocols. It is widely used in cybersecurity and development for the purpose of testing and interacting with web services, APIs, and scrutinizing web application security. Curl supports various protocols such as HTTP, HTTPS, FTP, SCP, SFTP, and many more.\n\nLearn more from the following resources:",
     "links": [
       {
         "title": "What is the cURL command?",
@@ -2483,6 +2493,11 @@
     "title": "cat",
     "description": "`cat` is a widely used command-line utility in UNIX and UNIX-like systems. It stands for \"concatenate\" which, as the name suggests, can be used to concatenate files, display file contents, or combine files. In the context of incident response and discovery tools, `cat` plays an essential role in quickly accessing and assessing the contents of various files that inform on security incidents and help users understand system data as well as potential threats.\n\nLearn more from the following resources:",
     "links": [
+      {
+        "title": "Cat Command in Linux",
+        "url": "https://linuxize.com/post/linux-cat-command/",
+        "type": "article"
+      },
       {
         "title": "Linux cat command",
         "url": "https://phoenixnap.com/kb/linux-cat-command",
@@ -2868,7 +2883,7 @@
     "description": "The **Center for Internet Security (CIS)** is a non-profit organization that focuses on enhancing the cybersecurity posture of individuals, organizations, and governments around the world. CIS offers various tools, best practices, guidelines, and frameworks that help in defending against common cyber threats.\n\nLearn more from the following resources:",
     "links": [
       {
-        "title": "CIS Website",
+        "title": "CIS",
         "url": "https://www.cisecurity.org/",
         "type": "article"
       },
@@ -3566,7 +3581,7 @@
     "description": "Containment in cybersecurity refers to the process of limiting the impact of a security incident by isolating affected systems, networks, or data to prevent further spread or damage. When a breach or malware infection is detected, containment strategies are quickly implemented to halt the attack's progress, often by disconnecting compromised systems from the network, blocking malicious traffic, or restricting user access. Containment is a critical step in incident response, allowing security teams to control the situation while they investigate the root cause, assess the extent of the breach, and prepare for remediation. Effective containment minimizes the potential harm to the organization, preserving the integrity of unaffected systems and data.\n\nLearn more from the following resources:",
     "links": [
       {
-        "title": "Microsoft security incident management: Containment, eradication, and recovery",
+        "title": "Microsoft Security Incident Management: Containment, Eradication, and Recovery",
         "url": "https://learn.microsoft.com/en-us/compliance/assurance/assurance-sim-containment-eradication-recovery",
         "type": "article"
       },
@@ -4384,7 +4399,7 @@
         "type": "article"
       },
       {
-        "title": "What cloud skills are essential?",
+        "title": "What Cloud Skills are Essential?",
         "url": "https://www.youtube.com/watch?v=udKBDRcj178",
         "type": "video"
       }
@@ -4783,14 +4798,19 @@
     "description": "C++ is a widely-used, high-level programming language that evolved from the earlier C programming language. Developed by Bjarne Stroustrup in 1985 at Bell Labs, C++ provides object-oriented features and low-level memory manipulation, making it an essential language for many fields, including game development, high-performance systems, and cybersecurity.\n\nLearn more form the following resources:",
     "links": [
       {
-        "title": "C++ Full Course - BroCode",
-        "url": "https://www.youtube.com/watch?v=-TkoO8Z07hI",
-        "type": "course"
+        "title": "Visit Dedicated C++ Roadmap",
+        "url": "https://roadmap.sh/cpp",
+        "type": "article"
       },
       {
         "title": "C++ Introduction",
         "url": "https://www.w3schools.com/cpp/cpp_intro.asp",
         "type": "article"
+      },
+      {
+        "title": "C++ Full Course - BroCode",
+        "url": "https://www.youtube.com/watch?v=-TkoO8Z07hI",
+        "type": "video"
       }
     ]
   },
